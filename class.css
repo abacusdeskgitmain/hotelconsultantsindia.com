@@ -1,0 +1,161 @@
+@charset "utf-8";
+/* CSS Document */
+a:link {
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration:underline;
+}
+a:active {
+	text-decoration: none;
+}
+body{
+background-color:#F6EFD4;
+margin:35px 0 0 0;
+background-image:url(images/bg.gif);
+}
+.copyrigttext{
+font-family:Arial, Helvetica, sans-serif;
+font-size:12px;
+font-weight:bold;
+color:#003300;
+}
+.deliverdetail{
+font-family:Arial, Helvetica, sans-serif;
+font-size:12px;
+font-weight:bold;
+color:#003300;
+}
+.contacthead{
+font-family:Arial, Helvetica, sans-serif;
+font-size:15px;
+font-weight:bold;
+color:#003300;
+}
+.enqdetail{
+font-family:Arial, Helvetica, sans-serif;
+font-size:12px;
+font-weight:normal;
+color:#003300;
+}
+.footerlink a:link{
+font-family:Arial, Helvetica, sans-serif;
+font-size:12px;
+font-weight:normal;
+color:#003300;
+}
+.footerlink a:visited{
+font-family:Arial, Helvetica, sans-serif;
+font-size:12px;
+font-weight:normal;
+color:#003300;
+}
+.footerlink a:hover{
+font-family:Arial, Helvetica, sans-serif;
+font-size:13px;
+font-weight:normal;
+text-decoration:underline;
+color:#FF9900;
+}
+.footerlink a:active{
+font-family:Arial, Helvetica, sans-serif;
+font-size:12px;
+font-weight:normal;
+color:#003300;
+}
+.textdeliver{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	font-weight:bold;
+	color:#000033;
+	text-transform:none;
+}
+.headabout{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:18px;
+	font-weight:bold;
+	color:#FF9900;
+	text-transform:none;
+}
+.headteam{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	font-weight:bold;
+	color:#FF9900;
+	text-transform:none;
+}
+.clickenquiry{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	font-weight:bold;
+	color:#ffffff;
+	text-decoration:blink; 
+	text-transform:none;
+}
+.clickenquiry a:hover{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	font-weight:bold;
+	color:#000000;
+	text-decoration:underline; 
+	text-transform:none;}
+.textaboutcontant{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	font-weight:normal;
+	color:#64594c;
+	text-decoration:none;
+	text-transform:none;
+}
+.textield
+{
+background-color:#FFFFFF;
+height:14px;
+width:219px;
+font-family:Arial;
+font-size:10px;
+border:solid 1px #b2afaf;
+}
+.textbox{
+background-color:#FFFFFF;
+height:80px;
+width:219px;
+font-family:Arial;
+font-size:10px
+border:solid 1px #b2afaf;
+}
+.texfieldco{
+height:69px;
+width:200px
+background-color:#FFFFCC;
+font-family:Verdana;
+color:#666666;
+font-size:12px;
+}
+.texareaco{
+height:15px;
+width:200px;
+background-color:#FFFFCC;
+font-family:Verdana;
+color:#666666;
+font-size:12px;
+}
+.tableform{
+background-image:url(images/index_11.gif);
+background-repeat:no-repeat;
+}
+.sumbitbutton{
+height:25px;
+width:24px;
+}
+.button{
+background-color:#4d3708;
+font-family:Verdana;
+color:#ffffff;
+font-size:12px;
+border:1px solid;
+overflow:hidden;
+}
